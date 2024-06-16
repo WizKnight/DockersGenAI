@@ -1,2 +1,4 @@
 # DockersGenAI
-App build with Dockers and Huggingface spaces
+
+Gen AI app for text generation
+[App build with Dockers and Huggingface spaces]
