@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from transformers import pipeline
 
 ## Create new FASTAPI app instance
-app = FASTAPI()
+app = FastAPI()
 
 ## Initialize text generation pipeline
 pipe = pipeline("text2text-generation", model="google/flan-t5-small")
